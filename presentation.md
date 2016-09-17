@@ -101,31 +101,11 @@ class: center, middle
 
 ---
 
-# Stopped producing urine, put on dialysis
-
----
-
-# Fingers and toes went flushed...
-
----
-
-# ...then brown
-
----
-
-# ...then black
-
----
-
-# ...then began to rot and die
+# ... and other bad things
 
 ---
 
 # Thankfully, with heroic effort, all escaped
-
----
-
-# With their lives, at least
 
 ---
 
