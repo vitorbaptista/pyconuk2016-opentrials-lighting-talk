@@ -53,55 +53,11 @@ class: center, middle
 
 ---
 
-# High temperatures
+# Things got much worse
 
 ---
 
-# Restlessness
-
----
-
-# Forgot who and where they were
-
----
-
-# Shivering
-
----
-
-# Flushing
-
----
-
-# Pulse racing
-
----
-
-# Falling blood pressure
-
----
-
-# One went into respiratory failure
-
----
-
-# Another dropped his blood pressure and stopped breathing properly
-
----
-
-# Went to intensive care
-
----
-
-# Within a day all were disastrously unwell
-
----
-
-# Ventilated on intensive care
-
----
-
-# ... and other bad things
+# But I'll spare you the details
 
 ---
 
